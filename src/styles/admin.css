@@ -1,0 +1,47 @@
+.admin-style {
+    margin-left: 200px;
+    margin-right: 190px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 12px
+}
+
+.ad-pet {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+.image-style {
+    background: url('../images/pets.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 91.5vh;
+
+
+}
+
+.card-style {
+    background-color: whitesmoke;
+}
+
+.logo-image {
+    width: 150px;
+    height: 150px;
+    margin-top: -15px;
+}
+
+.admin-navbar {
+    margin-top: 0px;
+    height: 100px;
+}
+
+.dialog-title {
+    margin: 5% 0% !important;
+    font-family: 'Poppins', sans-serif;
+    color: #5E4FA2;
+    text-align: center;
+    font-size: 40px;
+    padding: 0% 5%;
+    font-weight: 700;
+}
